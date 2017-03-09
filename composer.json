@@ -1,0 +1,9 @@
+{
+    "name": "pinfirelabs/yii1-firebird",
+    "require": {
+		"ext-pdo_sqlite": "*"
+	},
+	"autoload": {
+		"classmap": ["*.php"]
+	}
+}
